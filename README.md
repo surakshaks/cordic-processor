@@ -1,4 +1,4 @@
-# cordic-processor
+# Cordic-Processor
 CORDIC processor for sine and cosine computation using Verilog HDL
 # CORDIC Processor for Trigonometric Computation
 
